@@ -1,4 +1,4 @@
-﻿NettoyeurDisque
+﻿    ---NettoyeurDisque
 
 NettoyeurDisque est une application de bureau développée en C# avec Visual Studio. Elle permet aux utilisateurs de scanner leur ordinateur pour identifier et supprimer les fichiers inutiles, libérant ainsi de l'espace disque.
 
@@ -27,7 +27,7 @@ NettoyeurDisque est une application de bureau développée en C# avec Visual Stu
 
     Cloner le dépôt Git :
 
-git clone https://github.com/votre-utilisateur/NettoyeurDisque.git
+git clone https://github.com/MOUNIROUWAHAB23/NettoyeurDisque.git
 cd NettoyeurDisque
 
 Compiler le projet :
@@ -38,4 +38,7 @@ Compiler le projet :
 
 Localiser l'exécutable : Une fois la compilation réussie, l'exécutable sera généré dans le dossier suivant :
 
-NettoyeurDisque\bin\Release\NettoyeurDisque.exe
+NettoyeurDisque\bin\Release\NettoyeurDisque.exe ou NettoyeurDisque\bin\Release\NettoyeurDisque
+
+
+ou télécharger le fichier ""Exécutable"" dans l'abrborescence .
