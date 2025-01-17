@@ -36,9 +36,15 @@ Compiler le projet :
     Sélectionnez la configuration Release.
     Compilez le projet via le menu Build > Build Solution.
 
-Localiser l'exécutable : Une fois la compilation réussie, l'exécutable sera généré dans le dossier suivant :
 
-NettoyeurDisque\bin\Release\NettoyeurDisque.exe ou NettoyeurDisque\bin\Release\NettoyeurDisque
+** Lancement du projet 
+-lancer l'éxécutable dans bin/Release
+ou
+
+-Localiser l'exécutable : Une fois la compilation réussie, l'exécutable sera généré dans le dossier suivant :
+ou
+
+-NettoyeurDisque\bin\Release\NettoyeurDisque.exe ou NettoyeurDisque\bin\Release\NettoyeurDisque
 
 
 ou télécharger le fichier ""Exécutable"" dans l'abrborescence .
